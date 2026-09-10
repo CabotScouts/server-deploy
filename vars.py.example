@@ -1,0 +1,10 @@
+HOSTNAME = ""
+TIMEZONE = "Europe/London"
+
+USER = ""
+PUBLIC_KEYS = [
+  "",
+]
+
+SWAP_FILE = "/swap"
+SWAP_SIZE_MB = 4096
